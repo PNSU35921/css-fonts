@@ -1,1 +1,17 @@
-/* Start coding here */
+@font-face {
+  font-family: "iannnnnCPU (2005)";
+  src: url("./fonts/2005_iannnnnCPU.ttf") format("truetype");
+}
+
+body {
+  font-family: "iannnnnCPU (2005)", sans-serif;
+}
+
+@font-face {
+  font-family: "iannnnnCPU (2005)";
+  src: url("./fonts/2005_iannnnnCPU.ttf") format("truetype");
+}
+
+body {
+  font-family: "iannnnnCPU (2005)", sans-serif;
+}
